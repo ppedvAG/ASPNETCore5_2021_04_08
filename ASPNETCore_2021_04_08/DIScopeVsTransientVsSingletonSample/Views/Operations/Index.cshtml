@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    string transient = ViewBag.Transient.OperationId.ToString();
+    string scope = ViewBag.Scoped.OperationId.ToString();
+    string singleton = ViewBag.Singleton.OperationId.ToString();
+    string instance = ViewBag.Instance != null ? ViewBag.Instance.OperationId.ToString() : Guid.Empty.ToString();
+
+    string serviceTansientOperation = ViewBag.Service.TransientOperation.OperationId.ToString(); ;
+    string serviceScopeOperation = ViewBag.Service.ScopedOperation.OperationId.ToString(); ;
+    string serviceSingletonOperation = ViewBag.Service.SingletonOperation.OperationId.ToString(); ;
+    string serviceInstanceOperation = ViewBag.Service.SingletonInstanceOperation != null ? ViewBag.Service.SingletonInstanceOperation.OperationId.ToString() : Guid.Empty.ToString();
+}
+
+<h1>Singleton / Transient / Scope - Sample</h1>
+
+
+<h2><b>First Call</b></h2>
+<p>Transient: @transient</p>
+<p>Scoped: @scope</p>
+<p>Singleton: @singleton</p>
+<p>Instance: @instance</p>
+
+<hr />
+<h2><b>Second Call</b></h2>
+<p>Service Transient: @serviceTansientOperation</p>
+<p>Service Scoped: @serviceScopeOperation</p>
+<p>Service Singleton: @serviceSingletonOperation</p>
+<p>Service Instance: @serviceInstanceOperation</p>
+
+
+
+

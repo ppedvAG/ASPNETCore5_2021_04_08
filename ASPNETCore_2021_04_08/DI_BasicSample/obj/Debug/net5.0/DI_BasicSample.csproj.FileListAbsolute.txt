@@ -1,0 +1,11 @@
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\DI_BasicSample\bin\Debug\net5.0\DI_BasicSample.deps.json
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\DI_BasicSample\bin\Debug\net5.0\DI_BasicSample.dll
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\DI_BasicSample\bin\Debug\net5.0\ref\DI_BasicSample.dll
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\DI_BasicSample\bin\Debug\net5.0\DI_BasicSample.pdb
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\DI_BasicSample\obj\Debug\net5.0\DI_BasicSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\DI_BasicSample\obj\Debug\net5.0\DI_BasicSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\DI_BasicSample\obj\Debug\net5.0\DI_BasicSample.AssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\DI_BasicSample\obj\Debug\net5.0\DI_BasicSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\DI_BasicSample\obj\Debug\net5.0\DI_BasicSample.dll
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\DI_BasicSample\obj\Debug\net5.0\ref\DI_BasicSample.dll
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\DI_BasicSample\obj\Debug\net5.0\DI_BasicSample.pdb
