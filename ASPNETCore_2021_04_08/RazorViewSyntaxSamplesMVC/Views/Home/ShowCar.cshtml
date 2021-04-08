@@ -1,0 +1,123 @@
+﻿@model DI_BasicSample.MockCar
+@using DI_BasicSample;
+
+@inject ICar MOCKCAR
+    <!-- Hole mir einen Dienst oder was Registriertes, bzw einen Eintrag aus dem IOC Container -->
+
+<!-- Gebe an, dass die View typisiert ist -->
+
+@{ //C# Block
+    ViewData["Title"] = "ShowCar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    string autohersteller = Model.Brand;
+    DateTime constructionYear = Model.ConstructYear;
+
+
+    int jahr = 2016;
+
+    ICar car = new Car { Brand = "VW", Model = "Polo", ConstructYear = new DateTime(1990, 5, 23) };
+}
+@MOCKCAR.
+<h1>ShowCar</h1>
+
+
+@DateTime.Now <!-- Inline Code ist ein explizierter Ausdruck-->
+<p><b>@DateTime.IsLeapYear(2016)</b></p>
+
+@if (DateTime.IsLeapYear(jahr))
+{
+    <p>@jahr ist ein Schaltjahr</p>
+}
+else
+{
+    <p>@jahr ist kein Schaltjahr</p>
+}
+
+@(DateTime.Now - TimeSpan.FromDays(7))
+
+<br />
+@autohersteller
+<br />
+@Model.Brand
+
+
+@if (Model.Brand == "BMW")
+{
+    <p>Auto muss in eine zertifizierte BMW Werkstatt</p>
+}
+else
+{
+    <p>Auto kann von einem KFZ-Meister repariert</p>
+}
+
+<p> Beispiel Inline If - Welche CSS Einstellung wird verwendet</p>
+<div style='@(Model.Model== "Z11" ? "background-color:yellow":"background-color:orange")'>Car-Color</div>
+
+
+// Tage der kommenden Woche werden angezeigt
+@for (int i = 0; i < 7; i++)
+{
+    @DateTime.Now.AddDays(i).ToString("dddd");
+    <br />
+}
+
+@while (false)
+{
+
+}
+
+@do
+{
+
+} while (false);
+
+@{
+
+    while (false)
+    {
+        //Mach was
+    }
+}
+
+<p>Kann Razor auch Scripte ausführen</p>
+
+
+
+<div>
+    <h4>MockCar</h4>
+
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Brand)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Brand)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Model)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Model)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ConstructYear)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ConstructYear)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
+@section Scripts
+{
+    <script>
+        $('h4').text('Hallo liebe Teilnehmer');
+    </script>
+}
