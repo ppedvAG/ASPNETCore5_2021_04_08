@@ -9,7 +9,6 @@ C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\OverviewRazorPage
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\OverviewRazorPages\bin\Debug\net5.0\OverviewRazorPages.pdb
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\OverviewRazorPages\bin\Debug\net5.0\OverviewRazorPages.Views.dll
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\OverviewRazorPages\bin\Debug\net5.0\OverviewRazorPages.Views.pdb
-C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\OverviewRazorPages\obj\Debug\net5.0\OverviewRazorPages.csprojAssemblyReference.cache
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\OverviewRazorPages\obj\Debug\net5.0\OverviewRazorPages.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\OverviewRazorPages\obj\Debug\net5.0\OverviewRazorPages.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\OverviewRazorPages\obj\Debug\net5.0\OverviewRazorPages.AssemblyInfo.cs
@@ -38,3 +37,4 @@ C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\OverviewRazorPage
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\OverviewRazorPages\obj\Debug\net5.0\OverviewRazorPages.pdb
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\OverviewRazorPages\obj\Debug\net5.0\OverviewRazorPages.genruntimeconfig.cache
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\OverviewRazorPages\obj\Debug\net5.0\OverviewRazorPages.csproj.CopyComplete
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\OverviewRazorPages\obj\Debug\net5.0\OverviewRazorPages.csprojAssemblyReference.cache

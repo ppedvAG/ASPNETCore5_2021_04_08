@@ -117,3 +117,7 @@ C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\RazorViewSyntaxSa
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\RazorViewSyntaxSamplesMVC\obj\Debug\net5.0\RazorViewSyntaxSamplesMVC.pdb
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\RazorViewSyntaxSamplesMVC\obj\Debug\net5.0\RazorViewSyntaxSamplesMVC.genruntimeconfig.cache
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\RazorViewSyntaxSamplesMVC\obj\Debug\net5.0\Razor\Views\Home\ShowCar.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\RazorViewSyntaxSamplesMVC\bin\Debug\net5.0\DI_BasicSample.deps.json
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\RazorViewSyntaxSamplesMVC\bin\Debug\net5.0\DI_BasicSample.runtimeconfig.json
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\RazorViewSyntaxSamplesMVC\bin\Debug\net5.0\DI_BasicSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\RazorViewSyntaxSamplesMVC\bin\Debug\net5.0\DI_BasicSample.exe

@@ -113,10 +113,10 @@ C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\StateManagementMV
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\StateManagementMVCSample\obj\Debug\net5.0\ref\StateManagementMVCSample.dll
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\StateManagementMVCSample\obj\Debug\net5.0\StateManagementMVCSample.pdb
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\StateManagementMVCSample\obj\Debug\net5.0\StateManagementMVCSample.genruntimeconfig.cache
-C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\StateManagementMVCSample\obj\Debug\net5.0\StateManagementMVCSample.csprojAssemblyReference.cache
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\StateManagementMVCSample\obj\Debug\net5.0\Razor\Views\StateManagement\ViewDataSample.cshtml.g.cs
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\StateManagementMVCSample\obj\Debug\net5.0\Razor\Views\StateManagement\ViewBagSample.cshtml.g.cs
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\StateManagementMVCSample\obj\Debug\net5.0\Razor\Views\StateManagement\FirstTempDataSample.cshtml.g.cs
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\StateManagementMVCSample\obj\Debug\net5.0\Razor\Views\StateManagement\SecondTempDataSample.cshtml.g.cs
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\StateManagementMVCSample\obj\Debug\net5.0\Razor\Views\StateManagement\ThirdTempDataSample.cshtml.g.cs
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\StateManagementMVCSample\obj\Debug\net5.0\Razor\Views\StateManagement\SessionInit.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\StateManagementMVCSample\obj\Debug\net5.0\StateManagementMVCSample.csprojAssemblyReference.cache

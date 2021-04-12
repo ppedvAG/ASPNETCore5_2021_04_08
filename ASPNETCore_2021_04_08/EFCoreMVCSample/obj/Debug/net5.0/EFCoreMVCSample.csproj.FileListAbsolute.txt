@@ -143,3 +143,4 @@ C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\EFCoreMVCSample\b
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\EFCoreMVCSample\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\EFCoreMVCSample\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\EFCoreMVCSample\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\EFCoreMVCSample\obj\Debug\net5.0\EFCoreMVCSample.csprojAssemblyReference.cache

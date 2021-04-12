@@ -143,4 +143,9 @@ C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\EFCoreNMSampleMVC
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\EFCoreNMSampleMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\EFCoreNMSampleMVC\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\EFCoreNMSampleMVC\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\EFCoreNMSampleMVC\obj\Debug\net5.0\Razor\Views\Author\Create.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\EFCoreNMSampleMVC\obj\Debug\net5.0\Razor\Views\Author\Delete.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\EFCoreNMSampleMVC\obj\Debug\net5.0\Razor\Views\Author\Details.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\EFCoreNMSampleMVC\obj\Debug\net5.0\Razor\Views\Author\Edit.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\EFCoreNMSampleMVC\obj\Debug\net5.0\Razor\Views\Author\Index.cshtml.g.cs
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\EFCoreNMSampleMVC\obj\Debug\net5.0\EFCoreNMSampleMVC.csprojAssemblyReference.cache
