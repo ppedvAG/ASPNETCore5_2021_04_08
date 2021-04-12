@@ -9,4 +9,3 @@ C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\Domain_Sample\obj
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\Domain_Sample\obj\Debug\net5.0\Domain_Sample.dll
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\Domain_Sample\obj\Debug\net5.0\ref\Domain_Sample.dll
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\Domain_Sample\obj\Debug\net5.0\Domain_Sample.pdb
-C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\Domain_Sample\obj\Debug\net5.0\Domain_Sample.csprojAssemblyReference.cache

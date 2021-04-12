@@ -1,0 +1,2 @@
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\MVCGeneratedClientWithSwagger\obj\Debug\net5.0\MVCGeneratedClientWithSwagger.csprojAssemblyReference.cache
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\MVCGeneratedClientWithSwagger\obj\Debug\net5.0\MVCGeneratedClientWithSwagger.GeneratedMSBuildEditorConfig.editorconfig

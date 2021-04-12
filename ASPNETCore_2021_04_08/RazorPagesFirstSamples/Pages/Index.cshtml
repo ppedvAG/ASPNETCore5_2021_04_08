@@ -1,0 +1,20 @@
+﻿@page "calc/{handler?}" 
+    <!-- Handler für get-Methoden -->
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+<!-- page  -->
+
+<form method="post">
+    <input name="eins" />
+    <input name="zwei" />
+
+    <button type="submit" asp-page-handler="plus">+</button>
+    <button type="submit" asp-page-handler="minus">-</button>
+
+    <br />
+    @Model.Ergebnis
+</form>
