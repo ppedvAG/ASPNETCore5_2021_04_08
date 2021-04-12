@@ -117,3 +117,7 @@ C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\OverviewMVC\bin\D
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\OverviewMVC\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\OverviewMVC\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\OverviewMVC\obj\Debug\net5.0\Razor\Views\Basic\Index.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\OverviewMVC\bin\Debug\net5.0\DI_BasicSample.deps.json
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\OverviewMVC\bin\Debug\net5.0\DI_BasicSample.runtimeconfig.json
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\OverviewMVC\bin\Debug\net5.0\DI_BasicSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\OverviewMVC\bin\Debug\net5.0\DI_BasicSample.exe

@@ -1,14 +1,14 @@
-﻿@model DI_BasicSample.MockCar
+﻿<!-- @page wird nicht in MVC verwendet. Anwendung kann inkonstient werden-->
+
+@model DI_BasicSample.MockCar
 @using DI_BasicSample;
 
 @inject ICar MOCKCAR
-    <!-- Hole mir einen Dienst oder was Registriertes, bzw einen Eintrag aus dem IOC Container -->
-
+ <!-- Hole mir einen Dienst oder was Registriertes, bzw einen Eintrag aus dem IOC Container -->
 <!-- Gebe an, dass die View typisiert ist -->
 
 @{ //C# Block
     ViewData["Title"] = "ShowCar";
-    Layout = "~/Views/Shared/_Layout.cshtml";
 
     string autohersteller = Model.Brand;
     DateTime constructionYear = Model.ConstructYear;
@@ -17,8 +17,12 @@
     int jahr = 2016;
 
     ICar car = new Car { Brand = "VW", Model = "Polo", ConstructYear = new DateTime(1990, 5, 23) };
+
+    int value = 124;
+
+    object lockObj;
 }
-@MOCKCAR.
+
 <h1>ShowCar</h1>
 
 
@@ -80,9 +84,92 @@ else
     }
 }
 
+@{
+    void RenderName(string name) //Lokale Funktion und gilt nur in dieser RazorView
+    {
+        <p>Name: <strong>@name</strong></p>
+    }
+
+    RenderName("Mahatma Gandhi");
+    RenderName("Martin Luther King, Jr.");
+}
+
+
+
+
+
+
+@functions{
+    public string GenericMethod<T>()
+    {
+        return "a type";
+    }
+}
+
+<p>@(GenericMethod<int>())</p>
+
 <p>Kann Razor auch Scripte ausführen</p>
 
+@switch (value)
+{
+    case 1:
+        <p>The value is 1!</p>
+        break;
+    case 1337:
+        <p>Your number is 1337!</p>
+        break;
+    default:
+        <p>Your number wasn't 1 or 1337.</p>
+        break;
+}
 
+
+
+
+@* 7.3 Verbund @using
+
+    In C# kann mit einer using-Anweisung sichergestellt werden, dass ein Objekt freigegeben wurde.
+    In Razor wird derselbe Mechanismus verwendet, um HTML-Hilfsprogramme zu erstellen, die zusätzliche Inhalte enthalten.
+    Im folgenden Code wird ein <form>-Tag mit der @using-Anweisung durch HTML-Hilfsprogramme gerendert:
+*@
+
+@using (Html.BeginForm())
+{
+    <div>
+        Email: <input type="email" id="Email" value="">
+        <button>Register</button>
+    </div>
+}
+
+@try
+{
+    throw new InvalidOperationException("You did something invalid.");
+}
+catch (Exception ex)
+{
+    <p>The exception message: @ex.Message</p>
+}
+finally
+{
+    <p>The finally statement.</p>
+}
+
+@lock (MOCKCAR.Brand)
+{
+
+    //  Nur ein Thread kann in diesen Code Abschnitt
+}
+
+
+@*
+    @{
+        /* C# comment */
+        // Another C# comment
+    }
+    <!-- HTML comment -->
+*@
+
+@Html.
 
 <div>
     <h4>MockCar</h4>
@@ -111,7 +198,10 @@ else
 </div>
 <div>
     @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
-    <a asp-action="Index">Back to List</a>
+
+    @*<a asp-controller="Home" asp-action="Edit" asp-route="" /a>
+
+    <a asp-action="Index">Back to List</a>*@
 </div>
 
 

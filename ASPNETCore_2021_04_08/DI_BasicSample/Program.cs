@@ -2,20 +2,20 @@
 
 namespace DI_BasicSample
 {
-    //class Program
-    //{
-    //    static void Main(string[] args)
-    //    {
+    class Program
+    {
+        static void Main(string[] args)
+        {
 
-    //        ICarService carService = new CarService();
-    //        ICarService mockService = new MockCarService();
+            ICarService carService = new CarService();
+            ICarService mockService = new MockCarService();
 
-    //        carService.RepairCar(new Car());
+            carService.RepairCar(new Car());
 
-    //        ICar car = CarFacotry.CreateInstance("orginal");
-    //        ICar mockCar = CarFacotry.CreateInstance("mock");
-    //    }
-    //}
+            ICar car = CarFacotry.CreateInstance("orginal");
+            ICar mockCar = CarFacotry.CreateInstance("mock");
+        }
+    }
 
 
     #region Bad CarSample

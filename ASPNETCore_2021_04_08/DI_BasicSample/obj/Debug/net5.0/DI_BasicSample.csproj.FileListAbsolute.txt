@@ -9,3 +9,8 @@ C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\DI_BasicSample\ob
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\DI_BasicSample\obj\Debug\net5.0\DI_BasicSample.dll
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\DI_BasicSample\obj\Debug\net5.0\ref\DI_BasicSample.dll
 C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\DI_BasicSample\obj\Debug\net5.0\DI_BasicSample.pdb
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\DI_BasicSample\obj\Debug\net5.0\DI_BasicSample.csprojAssemblyReference.cache
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\DI_BasicSample\bin\Debug\net5.0\DI_BasicSample.exe
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\DI_BasicSample\bin\Debug\net5.0\DI_BasicSample.runtimeconfig.json
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\DI_BasicSample\bin\Debug\net5.0\DI_BasicSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\ASPNETCore5_2021_04_08\ASPNETCore_2021_04_08\DI_BasicSample\obj\Debug\net5.0\DI_BasicSample.genruntimeconfig.cache
